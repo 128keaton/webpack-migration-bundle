@@ -16,7 +16,7 @@
             <argument type="service" id="maba_twig_template_modification.node_replace_helper"/>
             <argument type="service" id="maba_webpack_migration.alias_prefixer"/>
             <argument>%assetic.variables%</argument>
-            <argument>%maba_webpack.twig_extension%</argument>
+            <argument>%maba_webpack.twig_directories%</argument>
             <argument type="service" id="maba_webpack_migration.asset_file_dumper"/>
             <argument>%maba_webpack.aliases.path_in_bundle%</argument>
             <argument>%maba_webpack_migration.ignored_filters%</argument>
