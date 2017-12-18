@@ -1,5 +1,5 @@
 {
-    "name": "maba/webpack-migration-bundle-3",
+    "name": "keaton/webpack-migration-bundle-3",
     "description": "Bundle to Help Migrating From Assetic to Webpack",
     "keywords": ["webpack", "assets", "assetic", "symfony", "symfony2", "amd", "commonjs"],
     "license": "MIT",
